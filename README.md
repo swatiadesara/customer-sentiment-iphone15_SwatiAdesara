@@ -46,7 +46,7 @@ This project analyzes customer sentiment for the **Apple iPhone 15 (128GB, Blue)
 
 ## 🙋‍♀️ Author
 
-**Shinjini**  
+**Swati Adesara**  
 Milestone Project | Customer Sentiment Analysis using Python  
 [Flipkart Product: iPhone 15 (128GB, Blue)]
 
